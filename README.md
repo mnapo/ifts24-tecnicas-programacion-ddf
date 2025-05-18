@@ -1,2 +1,5 @@
-# ifts24-tecnicas-programacion-ddf
-Guía de diagramas de flujo para la materia Técnicas de Programación de la carrera Tecnicatura Superior en Ciencia de Datos e IA
+# GUÍA DE DIAGRAMAS DE FLUJO
+Ejercicios de DDF para Técnicas de Programación de IFTS Nº24.
+
+## Índice de Guías
+https://github.com/mnapo/ifts24-guias-primer-cuatrimestre/blob/main/README.md
